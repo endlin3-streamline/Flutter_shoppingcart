@@ -90,7 +90,7 @@ class _PageState extends State<ProfilePage> {
                         ),
                       ),
                       Text(
-                        '$name telah dipilihhh.',
+                        '$name telah dipilih',
                         style: const TextStyle(color: Colors.white70, fontSize: 12),
                       ),
                     ],
